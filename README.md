@@ -176,23 +176,6 @@ Berikut beberapa teknologi yang digunakan atau relevan dengan topik pembelajaran
 | GIS dan Citra Satelit | Analisis data spasial dan pemantauan lingkungan |
 | High Performance Computing | Mendukung komputasi berkinerja tinggi |
 
-## 📁 Struktur Repository
-
-```text
-Informatics-Practitioner-Lecture-Series/
-│
-├── make-sense-of-data-analytics-ai/
-├── bridging-global-infrastructure-hpc/
-├── career-and-competition-gis/
-├── introduction-to-machine-learning/
-├── hci-data-visualization/
-├── deforestation-alerts-satellite-ai/
-│
-└── README.md
-```
-
-Setiap folder berisi materi, rangkuman, implementasi kasus, atau dokumentasi sesuai dengan kegiatan pembelajaran pada topik terkait.
-
 ## 🎯 Tujuan Pembelajaran
 
 Melalui rangkaian kegiatan ini, saya ingin:
